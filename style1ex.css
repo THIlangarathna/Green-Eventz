@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+.box-sub{
+	width: 270px;
+	height: 150px;
+	background-color: rgba(0,0,0,0.5);
+	line-height: 35px;
+	display: flex;
+	justify-content: center;
+	margin-top: 5px;
+	font-size: 20px;
+	font-weight: 500;
+	color: white;
+}
+
+
+.imgbx{
+	width: 260px;
+	margin:5px 5px 5px 5px;
+	height: 250px;
+	justify-content: center;
+	background-size: cover;
+}
